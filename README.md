@@ -4,4 +4,4 @@ While I am no longer much of an advocate for Ansible and have evolved my approac
 
 Please enjoy. 
 
-John Capobianco - July 1st 2023
+John Capobianco - July 1st 2023 
